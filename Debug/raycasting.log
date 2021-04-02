@@ -1,0 +1,35 @@
+﻿  Main.c
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(92,31): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(94,38): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(147,1): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(170,55): warning C4244: 'função': conversão de 'double' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(171,56): warning C4244: 'função': conversão de 'double' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(172,67): warning C4244: 'função': conversão de 'double' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(174,2): warning C4244: 'função': conversão de 'double' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(160,1): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(181,1): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(182,1): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(191,1): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(192,1): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(201,40): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(204,21): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(210,120): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(234,54): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(237,65): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(242,35): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(275,54): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(278,65): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(283,35): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(341,35): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(337,1): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(350,35): warning C4244: 'função': conversão de 'double' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(351,35): warning C4244: 'função': conversão de 'double' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(352,43): warning C4244: 'função': conversão de 'double' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(354,3): warning C4244: 'função': conversão de 'double' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(360,1): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(361,1): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(365,1): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(368,1): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(406,23): warning C4244: 'função': conversão de 'float' para 'Uint32', possível perda de dados
+C:\Users\ferna\source\repos\raycasting\raycasting\Main.c(409,33): warning C4244: '=': conversão de 'Uint32' para 'float', possível perda de dados
+  raycasting.vcxproj -> C:\Users\ferna\source\repos\raycasting\Debug\raycasting.exe
